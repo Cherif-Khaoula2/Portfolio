@@ -101,7 +101,7 @@ const NavBar = () => {
                   exact={index === 0}
                   activeClassName="navbar__link--active"
                   className="navbar__link"
-                  to={section.href}
+                  to={process.env.PUBLIC_URL + section.href}
                   theme={theme}
                 >
                   {section.title}
