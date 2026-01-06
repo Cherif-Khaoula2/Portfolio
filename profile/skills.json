@@ -1,0 +1,114 @@
+{
+    "intro": "J'aime apprendre de nouvelles choses et expérimenter avec de nouvelles technologies.\nVoici quelques-uns des principaux langages, technologies, outils et plateformes avec lesquels j'ai travaillé :",
+    "skills": [
+        {
+            "title": "Langages & Bases de données",
+            "description": "Je maîtrise plusieurs langages de programmation et bases de données pour le développement backend et frontend.",
+            "items": [
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java",
+                    "level": "Avancé"
+                },
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python",
+                    "level": "Avancé"
+                },
+                {
+                    "icon": "images/skills/php.png",
+                    "title": "PHP",
+                    "level": "Intermédiaire"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript",
+                    "level": "Avancé"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript",
+                    "level": "Intermédiaire"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML",
+                    "level": "Avancé"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS",
+                    "level": "Avancé"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL",
+                    "level": "Intermédiaire"
+                }
+            ]
+        },
+        {
+            "title": "Frameworks & Technologies",
+            "description": "J'utilise différents frameworks et technologies pour le développement web et mobile.",
+            "items": [
+                {
+                    "icon": "images/skills/angular.png",
+                    "title": "Angular",
+                    "level": "Intermédiaire"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React",
+                    "level": "Intermédiaire"
+                },
+                {
+                    "icon": "images/skills/spring-boot.png",
+                    "title": "Spring Boot",
+                    "level": "Intermédiaire"
+                },
+                {
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter",
+                    "level": "Intermédiaire"
+                },
+                {
+                    "icon": "images/skills/drupal.png",
+                    "title": "Drupal",
+                    "level": "Débutant"
+                }
+            ]
+        },
+       {
+            "title": "Outils & Plateformes",
+            "description": "J'utilise divers outils pour le développement, la collaboration et le déploiement de projets.",
+            "items": [
+                {  
+                    "icon": "images/skills/android-studio.png", 
+                    "title": "Android Studio", 
+                    "level": "Intermédiaire"
+                },
+                {  
+                    "icon": "images/skills/git.png", 
+                    "title": "Git", 
+                    "level": "Avancé"
+               },
+                {  
+                    "icon": "images/skills/docker.png", 
+                    "title": "Docker", 
+                    "level": "Intermédiaire"
+                },
+                { 
+                    "icon": "images/skills/vscode.png", 
+                    "title": "Visual Studio Code", 
+                    "level": "Avancé" 
+                },
+                { 
+                    "icon": "images/skills/postman.png", 
+                    "title": "Postman", 
+                    "level": "Intermédiaire" 
+                }
+            ]
+        }
+
+    ]
+}

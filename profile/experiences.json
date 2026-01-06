@@ -1,0 +1,44 @@
+{
+    "experiences": [
+        {
+            "title": "Ingénieur Études et Développement",
+            "subtitle": "SARPI SPA – Hydra, Algérie",
+            "workType": "CDD",
+            "workDescription": [
+                "Réalisation d’études techniques et fonctionnelles pour le développement de solutions logicielles.",
+                "Développement et optimisation d’applications internes pour améliorer les processus métiers."
+            ],
+            "dateText": "09/2025 – Présent"
+        },
+        {
+            "title": "Développeuse Full Stack IA (Stage de fin d'études)",
+            "subtitle": "SARPI SPA – Hydra, Algérie",
+            "workType": "Stage",
+            "workDescription": [
+                "Conception d’une solution web interne pour la gestion des marchés publics.",
+                "Utilisation de modèles de recommandation pour assister la commission des marchés dans la prise de décision."
+            ],
+            "dateText": "01/2025 – 06/2025"
+        },
+        {
+            "title": "Professeur des Mathématiques",
+            "subtitle": "École La Base de l'Éducation – Bab El Oued, Algérie",
+            "workType": "Temps partiel / Enseignement",
+            "workDescription": [
+                "Préparation et enseignement de cours pour des élèves de collège et lycée.",
+                "Conception de supports pédagogiques interactifs."
+            ],
+            "dateText": "09/2022 – 06/2025"
+        },
+        {
+            "title": "Stagiaire en Développement Web",
+            "subtitle": "Algérie Télécom – Mohammadia, Algérie",
+            "workType": "Stage pratique",
+            "workDescription": [
+                "Développement d'un site web pour la gestion des courriers de l'entreprise.",
+                "Utilisation de HTML, CSS et PHP."
+            ],
+            "dateText": "02/2023 – 05/2023"
+        }
+    ]
+}
