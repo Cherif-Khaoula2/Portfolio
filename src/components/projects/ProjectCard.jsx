@@ -6,42 +6,6 @@ import PropTypes from 'prop-types';
 import { ThemeContext } from 'styled-components';
 import ReactMarkdown from 'react-markdown';
 
-import { FaDrupal, FaReact, FaJava, FaPhp, FaHtml5, FaCss3Alt, FaMobileAlt, FaMicrochip } from 'react-icons/fa';
-import { SiTypescript, SiLaravel, SiTailwindcss, SiAngular, SiSpringboot, SiInertia, SiFlutter } from 'react-icons/si';
-import { MdFolder, MdPeople, MdMessage } from 'react-icons/md';
-
-const tagIcons = {
-  Drupal: <FaDrupal />,
-  React: <FaReact />,
-  Laravel: <SiLaravel />,
-  TypeScript: <SiTypescript />,
-  PHP: <FaPhp />,
-  Tailwind: <SiTailwindcss />,
-  Inertia: <SiInertia />,
-  Angular: <SiAngular />,
-  'Spring Boot': <SiSpringboot />,
-  Java: <FaJava />,
-  API: <FaMicrochip />,
-  Microservices: <FaMicrochip />,
- XGBoost: <FaMicrochip />,
-  'Random Forest': <FaMicrochip />,
-  IA: <FaMicrochip />,
-  HTML: <FaHtml5 />,
-  CSS: <FaCss3Alt />,
-  Mobile: <FaMobileAlt />,
-  Flutter: <SiFlutter />,
-  'Gestion documentaire': <MdFolder />,
-  'Communication interne': <MdMessage />,
-  Intranet: <MdPeople />,
-  'Portail interne': <MdFolder />,
-  'Gestion scolaire': <MdFolder />,
-  Éducation: <MdFolder />,
-  SSH: <FaMicrochip />,
-  'Active Directory': <FaMicrochip />,
-  Exchange: <FaMicrochip />,
-  Web: <FaHtml5 />,
-};
-
 const styles = {
   badgeStyle: {
     paddingLeft: 10,
@@ -112,21 +76,19 @@ const ProjectCard = (props) => {
           ))}
         </Card.Body>
         {project.tags && (
-          <Card.Footer style={{ backgroundColor: theme.cardFooterBackground, display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+          <Card.Footer style={{ backgroundColor: theme.cardFooterBackground }}>
             {project.tags.map((tag) => (
               <Badge
                 key={tag}
                 pill
                 bg={theme.bsSecondaryVariant}
                 text={theme.bsPrimaryVariant}
-                style={{ ...styles.badgeStyle, display: 'flex', alignItems: 'center', gap: '5px', cursor: 'default' }}
+                style={styles.badgeStyle}
               >
-                {tagIcons[tag] && <span>{tagIcons[tag]}</span>}
                 {tag}
               </Badge>
             ))}
           </Card.Footer>
-
         )}
       </Card>
     </Col>
