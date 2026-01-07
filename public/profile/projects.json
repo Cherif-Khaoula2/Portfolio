@@ -17,13 +17,6 @@
             "image" : "images/projects/gmat.png",
             "title": "GMAT – Gestion matériel et maintenance",
             "bodyText": "Application de gestion du matériel et de la maintenance. Elle permet la création de demandes de transfert de matériel (DTM), de bons de transfert de matériel (BTM), le suivi quotidien du matériel ainsi que la gestion des opérations de maintenance.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula2/gmao"
-                }
-              
-            ],
              "tags": [
                 "React",
                 "Laravel",
@@ -39,21 +32,7 @@
             "image" : "images/projects/cme.png",
             "title": "Plateforme  pour la commission des marchés (CME)",
             "bodyText": "Conception d’une solution web interne pour la gestion des marchés publics, intégrant des modèles de recommandation basés sur l’IA pour assister la commission dans la prise de décision et optimiser l’attribution des marchés.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula2/Backendcme"
-                },
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula2/FrontendCME"
-                },
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula/IACME"
-                }
-              
-            ],
+
             "tags": [
                 "Spring Boot", 
                 "Angular", 
@@ -71,13 +50,7 @@
             "image" : "images/projects/tosys.png",
             "title": "TOSYS App",
            "bodyText": "Développement d’un système permettant de créer, modifier, bloquer, débloquer et réinitialiser les mots de passe des comptes Active Directory et Exchange pour SARPI SPA.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula2/TosysApp"
-                }
-               
-            ],
+           
            "tags": [
                 "React",
                 "Laravel",
@@ -94,12 +67,7 @@
             "image" : "images/projects/cnd.png",
             "title": "CND Platform ",
             "bodyText": "Application pour la gestion centralisée des projets et utilisateurs pour le contrôle non descriptif. Elle permet la gestion complète des ISOs, des joints et des PV associés, ainsi que le suivi des contrôles VT, RT, PT et PWHT...",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
+          
              "tags": [
                 "React",
                 "Laravel",
@@ -114,12 +82,7 @@
             "image" : "images/projects/courrier.png",
             "title": "Application web – Gestion des courriers",
             "bodyText": "Conception et développement d'une application web interne pour la gestion des courriers chez Algérie Télécom, permettant le suivi, l'archivage et le traitement efficace des documents, avec HTML, CSS et PHP.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula/Gestion-des-courriers"
-                }
-            ],
+           
             "tags": [
                 "HTML",
                  "CSS", 
@@ -131,12 +94,7 @@
         {
             "title": "Application mobile – Gestion d'une école",
             "bodyText": "Développement d'une application mobile pour la gestion complète d'une école privée, incluant la gestion des élèves, des cours, des enseignants, des exercices et des emplois du temps, avec une interface dédiée pour chaque type d'utilisateur.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula/schoolmanager-n"
-                }
-            ],
+           
            "tags": [
               "Flutter", 
               "Dart", 
@@ -148,17 +106,7 @@
         {   
             "title": "Plateforme  pour gestion rendez vous medical ",
             "bodyText": "Conception d’une solution web pour la gestion des rendez-vous médicaux, incluant un backend en microservices et une interface utilisateur interactive pour faciliter la prise de rendez-vous et la gestion des patients.",        
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula/Gestion-Rendezvous-Frontend"
-                },
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Cherif-Khaoula/Gestion-Rendezvous-Backend"
-                }
-              
-            ],
+           
             "tags": [
                 "Spring Boot", 
                 "Angular", 
