@@ -8,7 +8,6 @@ import ReactMarkdown from 'react-markdown';
 import { FaDrupal, FaReact, FaJava, FaPhp, FaHtml5, FaCss3Alt, FaMobileAlt, FaMicrochip } from 'react-icons/fa';
 import { SiTypescript, SiLaravel, SiTailwindcss, SiAngular, SiSpringboot, SiInertia, SiXgboost, SiRandomforest, SiFlutter } from 'react-icons/si';
 import { MdFolder, MdPeople, MdMessage } from 'react-icons/md';
-import { FaMicrochip } from 'react-icons/fa';
 const tagIcons = {
   Drupal: <FaDrupal />,
   React: <FaReact />,
