@@ -5,9 +5,11 @@ import {
 import PropTypes from 'prop-types';
 import { ThemeContext } from 'styled-components';
 import ReactMarkdown from 'react-markdown';
+
 import { FaDrupal, FaReact, FaJava, FaPhp, FaHtml5, FaCss3Alt, FaMobileAlt, FaMicrochip } from 'react-icons/fa';
-import { SiTypescript, SiLaravel, SiTailwindcss, SiAngular, SiSpringboot, SiInertia, SiXgboost, SiRandomforest, SiFlutter } from 'react-icons/si';
+import { SiTypescript, SiLaravel, SiTailwindcss, SiAngular, SiSpringboot, SiInertia, SiFlutter } from 'react-icons/si';
 import { MdFolder, MdPeople, MdMessage } from 'react-icons/md';
+
 const tagIcons = {
   Drupal: <FaDrupal />,
   React: <FaReact />,
