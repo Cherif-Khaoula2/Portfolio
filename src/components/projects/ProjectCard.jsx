@@ -49,10 +49,12 @@ const ProjectCard = (props) => {
         }}
         text={theme.bsSecondaryVariant}
       >
-        <Card.Img
-          variant="top"
-          src={process.env.PUBLIC_URL + '/' + project?.image}
-        />
+        {project?.image && (
+          <Card.Img
+            variant="top"
+            src={process.env.PUBLIC_URL + '/' + project.image}
+          />
+        )}
 
         <Card.Body>
           <Card.Title style={styles.cardTitleStyle}>{project.title}</Card.Title>

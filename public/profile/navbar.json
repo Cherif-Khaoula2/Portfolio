@@ -7,32 +7,31 @@
     "sections": [
         {
             "title": "Accueil",
-            "href": "#/"
+            "href": "/"
         },
         {
             "title": "À propos",
-            "href": "#/about"
+            "href": "/about"
         },
         {
             "title": "Compétences",
-            "href": "#/skills"
+            "href": "/skills"
         },
         {
             "title": "Formation",
-            "href": "#/education"
+            "href": "/education"
         },
         {
             "title": "Expérience",
-            "href": "#/experience"
+            "href": "/experience"
         },
         {
             "title": "Projets",
-            "href": "#/projects"
+            "href": "/projects"
         },
-
         {
             "title": "CV",
-            "href": "files/Cherif%20khaoula.pdf",
+            "href": "/files/Cherif khaoula.pdf",
             "type": "link"
         }
 
