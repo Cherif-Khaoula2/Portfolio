@@ -61,7 +61,7 @@ const NavBar = () => {
     >
       <Container>
         {data?.logo && (
-          <Navbar.Brand href="/">
+          <Navbar.Brand as={NavLink} to="/">
             <img
               src={data?.logo?.source}
               className="d-inline-block align-top"
@@ -85,7 +85,7 @@ const NavBar = () => {
               && data.sections?.map((section, index) => (section?.type === 'link' ? (
                 <ExternalNavLink
                   key={section.title}
-                  href={section.href}
+                  href={process.env.PUBLIC_URL + section.href}
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={() => setExpanded(false)}
