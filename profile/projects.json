@@ -3,7 +3,7 @@
           {  
             "image" : "images/projects/portail.png",
             "title": "Intranet SARPI – Portail interne",
-            "bodyText": "Conception et développement d’un intranet interne pour SARPI avec Drupal, centralisant les informations internes, documents et procédures, et facilitant la communication entre les services. Le portail inclut les rubriques Communications Internes, Ressources Humaines , Santé, Sécurité au Travail...",
+            "bodyText": "Conception et développement d’un intranet interne pour SARPI avec Drupal, centralisant les informations internes, documents et procédures, et facilitant la communication entre les services. Le portail inclut les rubriques Communications Internes, Ressources Humaines , Santé, Sécurité au Travail , Comité de Participation et  Juridique .",
             "tags": [
                 "Drupal",
                 "Intranet",
